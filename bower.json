@@ -1,0 +1,13 @@
+{
+    "name": "dmopress-starter-theme",
+    "version": "1.0.0",
+    "authors": [
+        "Jason Pomerleau <jason@jasonpomerleau.com>"
+    ],
+    "license": "CLOSED",
+    "homepage": "",
+    "private": true,
+    "dependencies": {
+        "bootstrap": "^3.3.7"
+    }
+}

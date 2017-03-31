@@ -1,0 +1,10 @@
+# Folders
+node_modules/
+bower_components/
+dist/
+
+# File Types
+.DS_Store
+
+# Specific Files
+secrets.json
